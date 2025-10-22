@@ -1,6 +1,4 @@
-/*
-# Copyright (c) 2021-2025 University of Missouri                   
-# Author: Xing Song, xsm7f@umsystem.edu                            
+/*                         
 # File: sp_dcl_utils.sql                                                 
 # Description: DCL utilities for creating new user and roles 
 ref: 
