@@ -43,4 +43,4 @@ vignettes/*.pdf
 .archives/*
 
 # Data folders
-*data/*
+data/*
