@@ -13,10 +13,6 @@ create a patient table with following informations in separate columns:
 - DX_DATE1: first date of ALS diagnosis
 */
 
-select * from deidentified_pcornet_CDM_C016R033.CDM_C016R033.deid_obs_clin
-where lower(raw_obsclin_name) like '%glasgow%'
-;
-
 -- collect all diagnoses about ALS
 create or replace table all_als_dx as 
 select * 
